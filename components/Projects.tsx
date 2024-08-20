@@ -72,7 +72,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row-reverse gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://www.noormohmmad.com/"
+            href="https://www.icraset2k23.com/"
             target="_blank"
           >
             <div>
@@ -130,7 +130,7 @@ schedules, speakers, and registration information.{" "}
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://noorshop.netlify.app/"
+            href="https://github.com/SuhaniKelapure08/Chatbot-AI---Python"
             target="_blank"
           >
             <div>
