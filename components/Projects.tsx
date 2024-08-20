@@ -59,7 +59,7 @@ const Projects = () => {
               
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://amazon-clone-d8jrfiit4-suhanikelapure08s-projects.vercel.app/"
+                href="https://amazon-clone-fawn-seven.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
