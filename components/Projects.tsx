@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://amazon-clone-d8jrfiit4-suhanikelapure08s-projects.vercel.app/"
+            href="https://amazon-clone-fawn-seven.vercel.app/"
             target="_blank"
           >
             <div>
